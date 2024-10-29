@@ -1,4 +1,5 @@
 - 👋😊 Hi, my name is Elio Fiorentini.
+- 🇫🇷 I'm a french computer science student.
 - 📚 I learned C, C++, and some Java in Uni.
 - 🧑‍💻 I am aiming to enter to the 42 school next year.
 - 🤓 I am curently learning Rust.
